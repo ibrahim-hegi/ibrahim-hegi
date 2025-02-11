@@ -21,7 +21,7 @@
 
 <a href="mailto:abrahymhlal63@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]([https://drive.google.com/file/d/1802I1A9z6F5-YCYdk3yX61IpBJOZYz0X/view?usp=sharing])
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1802I1A9z6F5-YCYdk3yX61IpBJOZYz0X/view?usp=sharing)
 
 <a href="https://github.com/ibrahim-hegi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ibrahim-hegi?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
